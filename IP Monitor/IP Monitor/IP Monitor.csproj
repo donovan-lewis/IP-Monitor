@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>IP_Monitor</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="IP.ico" />
+    <None Remove="motherboard-pi-4-1024x701.png" />
+    <None Remove="Off.png" />
+    <None Remove="On.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="IP.ico" />
+    <Resource Include="motherboard-pi-4-1024x701.png" />
+    <Resource Include="Off.png" />
+    <Resource Include="On.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSp9JdGXFfuIEeNZPIh4YjMyy6vwhlZ0C9eIrG3e8dn9vR0sDMYVpkem4QYrPvo5KuHqIjz8DpzXngfKQeCf8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Don20\\source\\repos\\IP Monitor\\IP Monitor\\IP Monitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Don20\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

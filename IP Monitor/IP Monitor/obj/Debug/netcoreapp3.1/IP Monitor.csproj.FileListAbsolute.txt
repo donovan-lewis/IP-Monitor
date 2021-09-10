@@ -1,0 +1,19 @@
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor.csprojAssemblyReference.cache
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor_MarkupCompile.cache
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor_MarkupCompile.lref
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\bin\Debug\netcoreapp3.1\IP Monitor.exe
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\bin\Debug\netcoreapp3.1\IP Monitor.deps.json
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\bin\Debug\netcoreapp3.1\IP Monitor.runtimeconfig.json
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\bin\Debug\netcoreapp3.1\IP Monitor.runtimeconfig.dev.json
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\bin\Debug\netcoreapp3.1\IP Monitor.dll
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\bin\Debug\netcoreapp3.1\IP Monitor.pdb
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor.g.resources
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor.AssemblyInfoInputs.cache
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor.AssemblyInfo.cs
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor.dll
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor.pdb
+C:\Users\Don20\source\repos\IP Monitor\IP Monitor\obj\Debug\netcoreapp3.1\IP Monitor.genruntimeconfig.cache
